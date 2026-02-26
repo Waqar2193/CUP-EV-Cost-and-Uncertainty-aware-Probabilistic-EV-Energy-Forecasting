@@ -3,6 +3,8 @@
 This repository contains the code for our probabilistic multi-horizon EV charging demand forecasting experiments on the Jiaxing and Palo Alto datasets.
 
 ## Files
+- `DLinear_Res_Prob_Jiaxing_PaloAlto.py`  
+  Main proposed model training script for Jiaxing and Palo Alto datasets (DLinear-Res probabilistic model).
 - `Calibration Diagnostics and Conformal Adjustments.py`  
   Calibration curves, PIT, and Conformalized Quantile Regression (CQR) diagnostics.
 - `Cost Sensitivity Analysis.py`  
